@@ -12,7 +12,7 @@
 
 The **ft_printf** project recreates the functionality of `printf()`, focusing on variadic functions and formatted output. It supports a wide range of format specifiers (e.g., `%d`, `%s`, `%x`) and provides additional features like flag handling and precision management.
 
-The project aims to build a reusable library (`libftprintf.a`) that can be integrated into other projects, such as the **Libft** library. This is an excellent opportunity to strengthen your understanding of low-level C programming, memory management, and function handling.
+The project aims to build a reusable library (`libftprintf.a`) that can be integrated into other projects, such as the **Libft** library. This is an excellent opportunity to strengthen your understanding of low-level C programming and function handling.
 
 ---
 
