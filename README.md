@@ -1,8 +1,4 @@
 <p align="center">
-   <img src="https://github.com/AhmadHirzallah/ft_printf/blob/main/banner.png">
-</p>
-
-<p align="center">
    <img src="https://img.shields.io/badge/ft_printf-122%2F100-brightgreen?style=flat-square"/>
    <img src="https://img.shields.io/badge/language-C-blue.svg?style=flat-square"/>
    <img src="https://img.shields.io/badge/variadic-functions-important.svg?style=flat-square"/>
