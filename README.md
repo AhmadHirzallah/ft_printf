@@ -32,9 +32,6 @@ The project aims to build a reusable library (`libftprintf.a`) that can be integ
 - **Variadic Functions**:
   - Uses `va_start()`, `va_arg()`, `va_copy()`, and `va_end()` to manage variable-length arguments.
   
-- **Memory Management**:
-  - Ensures proper allocation and deallocation of memory during execution.
-
 - **Bonus Features**:
   - Handles additional formatting flags: `-`, `0`, `.`, `#`, `+`, and space.
   - Supports field width and precision management for more advanced formatting.
