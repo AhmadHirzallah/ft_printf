@@ -50,10 +50,6 @@ The project is organized into several key files:
 - `ft_itoa_base_into_bfr.c`: Converts numbers to different bases and stores them in the buffer.
 - `ft_set_pad_spaces_nbr_cases.c`, `ft_set_pad_zeros_nbr_cases.c`: Handles padding with spaces and zeros for formatted output.
 
-### 📜 Bonus Files
-
-- `ft_printf_bonus.c`: Handles extended formatting features like flags (`-`, `0`) and field width/precision management.
-
 ---
 
 ## 🔗 Libft Integration
